@@ -37,6 +37,7 @@ The goal of this project was to create a professional online presence and demons
 - Project filtering functionality
 - Deployment with custom domain
 
-## Author
 
-Vaagdevi Goruganti
+
+
+
